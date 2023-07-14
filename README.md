@@ -1,5 +1,5 @@
-<h1 align="center">Olá, sou o Davi! 👋</h1>
-<h3 align="center">Estudante de desenvolvimento de sistemas.</h3>
+<h1 >Olá, sou o Davi! 👋</h1>
+<h3 >Estudante de desenvolvimento de sistemas.</h3>
 
 - 🌱 Atualmente, estou estudando **FrontEnd, Web, JS, CSS, HTML, JAVA, Git**
 

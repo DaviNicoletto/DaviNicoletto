@@ -49,6 +49,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DaviNicoletto/DaviNicoletto/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkYXoycHFvY3c0eGZhOGZ4d292dTV1M3J1ZXNmYm1uY2M0dTZ4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A5ffIYwJoEpVcMOYiO/giphy.gif"  />
+</div>
 
 ###

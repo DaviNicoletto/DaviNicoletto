@@ -5,6 +5,10 @@
 <p align="center">Graduando em Análise e Desenvolvimento de Sistemas<br>Técnico em Automação Industrial<br>Fotógrafo e Músico nas horas vagas</p>
 
 ###
+***
+<p align="center">Conecte-se comigo!</p>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-nicoletto/" target="_blank">
@@ -17,6 +21,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
+***
+<p align="center">Ferramentas e tecnologias:</p>
 
 ###
 
